@@ -1,4 +1,4 @@
-# fun-with-mr-tez
+# Fun with MapReduce and Tez
 Some of my scripts to evaluate MR and Tez on TPC-DS benchmark.
 
 * start_vms.sh - This script starts all my Azure VMs after they logging in with my Azure credentials.
